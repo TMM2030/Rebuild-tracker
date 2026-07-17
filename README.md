@@ -128,6 +128,6 @@ npm run dev
 
 ---
 
-Built by [Terrence McGee](https://github.com/TMM2030) as part of a
+Built by [_onetruway_](https://github.com/TMM2030) as part of a
 personal transition into Solutions Architecture, applying system design
 thinking to a real, ongoing problem rather than a tutorial exercise.
