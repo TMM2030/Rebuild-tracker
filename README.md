@@ -11,7 +11,7 @@ Live demo: _add your deployed link here once hosted_
 
 In 2025 I stepped away from my career to be a full-time caregiver for my father
 until his passing. Re-entering the workforce meant rebuilding three things at
-once — income, credit, and physical health — without a way to see whether
+once — income, credit, and physique — without a way to see whether
 daily effort was actually converting into progress.
 
 Existing habit trackers and budgeting apps solve one of these problems, not
