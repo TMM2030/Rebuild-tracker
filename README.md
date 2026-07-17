@@ -1,7 +1,7 @@
 Rebuild Log
 
 A personal progress-tracking system I designed and built to manage a structured
-life transition across three parallel tracks: **income**, **credit**, and **physical health**.
+life transition across three parallel tracks: **income**, **credit**, and **physique**.
 
 Live demo: _add your deployed link here once hosted_
 
